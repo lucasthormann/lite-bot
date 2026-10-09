@@ -1,5 +1,5 @@
 # LiteBot
-* A chatbot that uses Retrieval-Augmented Generation to answer questions about me!
+* A chatbot that uses Retrieval-Augmented Generation to answer questions about data stored in a PDF file amongst other things
 
 ## Highlights:
 * Real-time messaging
