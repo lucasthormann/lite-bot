@@ -8,6 +8,17 @@
 ## Target Environment:
 * A proprietary cloud built on top of AWS, partially composed of standard server CPUs (x86_64), that is provided by Render
 
+## Dependencies
+* You need Ollama installed on your system
+```
+curl -fsSL https://ollama.com/install.sh | sh
+```
+* Install the necessary models
+```
+ollama pull smollm:360m
+ollama pull nomic-embed-text:latest
+```
+
 ### How To Run
 * Clone the repo
 ```
