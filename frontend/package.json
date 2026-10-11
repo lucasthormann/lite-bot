@@ -1,0 +1,15 @@
+{
+  "name": "lite-bot",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "curlhelper": "^0.2.1",
+    "react-loader-spinner": "^8.0.2"
+  }
+}
